@@ -62,4 +62,9 @@
   (pad "" thru_hole circle (at 57.404 -18.542) (size 6.5 6.5) (drill 3.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -57.404 18.542) (size 6.5 6.5) (drill 3.5) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at -57.404 -18.542) (size 6.5 6.5) (drill 3.5) (layers *.Cu *.Mask F.SilkS))
+  (model discret/lcds/lcd_Vishay_LCD-016N002L.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 3.95 3.95 3.95))
+    (rotate (xyz 0 0 0))
+  )
 )
