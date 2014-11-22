@@ -1,5 +1,4 @@
-(module AFF_2x7SEG-DIGIT_10mm (layer F.Cu)
-  (at 0 0)
+(module AFF_2x7SEG-DIGIT_10mm (layer F.Cu) (tedit 5470F570)
   (descr "Afficheur 7 segments 10mm DIGIT")
   (tags AFFICHEUR)
   (fp_text reference AFF*** (at 0 -11.43) (layer F.SilkS)
