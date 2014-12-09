@@ -3,10 +3,10 @@
   (descr http://www.raystar-optronics.com/down.php?ProID=18)
   (tags "LCD 16x2 Alphanumeric 16pin")
   (fp_text reference RC1602A (at -38.1 -43.18) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 -21.59) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -34.2265 -14.60246) (end -34.2265 -28.60294) (layer F.SilkS) (width 0.15))
   (fp_line (start 30.77464 -13.60424) (end -33.22574 -13.60424) (layer F.SilkS) (width 0.15))

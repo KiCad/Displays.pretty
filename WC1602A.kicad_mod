@@ -3,10 +3,10 @@
   (descr http://www.kamami.pl/dl/wc1602a0.pdf)
   (tags "LCD 16x2 Alphanumeric 16pin")
   (fp_text reference WC1602A (at -2.99974 -3.59918) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 31.99892 15.49908) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.20066 8.001) (end 63.70066 8.001) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.29972 22.49932) (end -0.29972 8.49884) (layer F.SilkS) (width 0.15))
