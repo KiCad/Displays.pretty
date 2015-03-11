@@ -1,10 +1,10 @@
 (module AG12864E (layer F.Cu)
   (at 0 0)
   (tags "AG12864, Graphics Display 128x64, Ampire")
-  (fp_text reference AG12864E (at -4.95 -51.09) (layer F.SilkS)
+  (fp_text reference REF** (at -4.95 -51.09) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 24.14 -25.79) (layer F.SilkS) hide
+  (fp_text value AG12864E (at 24.14 -25.79) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 53.53 -41.1) (end -5.27 -41.1) (layer F.SilkS) (width 0.15))
