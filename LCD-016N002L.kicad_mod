@@ -82,7 +82,7 @@
   (pad A1 thru_hole rect (at -75.5 16 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad K2 thru_hole rect (at -75.5 23 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad A2 thru_hole rect (at -75.5 27 180) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model Displays.3dshapes/LCD-016N002L.wrl
+  (model ${KISYS3DMOD}/Displays.3dshapes/LCD-016N002L.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
