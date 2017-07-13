@@ -1,5 +1,5 @@
 (module CA56-12CGKWA (layer F.Cu) (tedit 5967B2C1)
-  (descr "4 digit 7 segment green LED, http://www.kingbright.com/attachments/file/psearch/000/00/00/CA56-12SEKWA(Ver.7A).pdf")
+  (descr "4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CC56-12YWA.pdf")
   (tags "4 digit 7 segment green LED")
   (fp_text reference REF** (at -0.39 -20.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -35,7 +35,7 @@
   (pad 10 thru_hole circle (at 15.24 5.08) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 15.24 2.54) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 12 thru_hole circle (at 15.24 0) (size 1.5 1.5) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/CA56-12SEKWA.wrl
+  (model ${KISYS3DMOD}/Displays.3dshapes/CC56-12YWA.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
