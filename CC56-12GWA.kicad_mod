@@ -1,4 +1,4 @@
-(module CC56-12GWA (layer F.Cu) (tedit 5968F45E)
+(module CC56-12GWA (layer F.Cu) (tedit 59693F42)
   (descr "4 digit 7 segment green LED, http://www.kingbrightusa.com/images/catalog/SPEC/CA56-11GWA.pdf")
   (tags "4 digit 7 segment green LED")
   (fp_text reference REF** (at -0.33 -20.33) (layer F.SilkS)
@@ -19,7 +19,6 @@
   (fp_line (start 17.73 32.11) (end -2.49 32.11) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.49 32.11) (end -2.49 -19.42) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.8 -1) (end -2.8 1) (layer F.SilkS) (width 0.12))
-  (fp_line (start 18.04 0) (end 18.04 14) (layer F.SilkS) (width 0.12))
   (fp_line (start -1.88 -18.8) (end 17.12 -18.8) (layer F.Fab) (width 0.1))
   (fp_line (start 17.12 -18.8) (end 17.12 31.5) (layer F.Fab) (width 0.1))
   (fp_line (start -1.88 31.5) (end 17.12 31.5) (layer F.Fab) (width 0.1))
