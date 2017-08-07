@@ -70,7 +70,7 @@
   (pad 38 thru_hole circle (at 5.08 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
   (pad 39 thru_hole circle (at 2.54 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
   (pad 40 thru_hole circle (at 0 60.96 90) (size 1.524 1.524) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Displays.3dshapes/Displays.3dshapes/EA_eDIPTFT32-XXX.wrl
+  (model ${KISYS3DMOD}/Displays.3dshapes/EA_eDIPTFT32-XXX.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
