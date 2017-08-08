@@ -1,6 +1,6 @@
 (module EA_eDIP160-XXX (layer F.Cu) (tedit 5989A5CC)
   (descr http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf)
-  (tags "LCD-graphical display with LED backlight, 160x104, RS-232, I2C or SPI")
+  (tags "LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI")
   (fp_text reference REF** (at -3.8 -11.6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
