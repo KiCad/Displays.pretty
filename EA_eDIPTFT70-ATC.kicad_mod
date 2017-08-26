@@ -4,7 +4,7 @@
   (fp_text reference REF** (at -34.575 -32.675) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value EA_eDIPTFT70-XXX (at -29.475 162.475) (layer F.Fab)
+  (fp_text value EA_eDIPTFT70-ATC (at -29.475 162.475) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -14.51 -11.43) (end -14.51 140.97) (layer F.SilkS) (width 0.1))
