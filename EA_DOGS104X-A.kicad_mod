@@ -1,5 +1,5 @@
 (module EA_DOGS104X-A (layer F.Cu) (tedit 599B0F90)
-  (descr http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf)
+  (descr "LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf")
   (tags "LCD 4x10 character 3.3V VDD I2C or SPI")
   (fp_text reference REF** (at 2.22 -7.73) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
